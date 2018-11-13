@@ -1,3 +1,7 @@
+*.depend
+*.layout
+*.cbp
+
 # Prerequisites
 *.d
 
