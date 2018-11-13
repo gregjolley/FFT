@@ -1,1 +1,2 @@
-# FFT_routine_scratch
+# Fast Fourier Transform experiementation
+
